@@ -18,7 +18,7 @@ namespace ConsoleApp1
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Задача 4\n=================");
+            Console.WriteLine("Задача 3\n=================");
             Console.WriteLine("Условие задачи:\nДано действительное число a. Для функций f(x), " +
                               "графики которых предствлены на рисунке, вычислить f(a).\n" +
                               "=================");
